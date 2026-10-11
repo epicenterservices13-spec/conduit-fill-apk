@@ -15,9 +15,12 @@ Conduit Fill application source codebase and single-location Gradle build system
 ├── build.gradle
 ├── settings.gradle
 ├── gradle.properties
-├── ISSUES.md
-└── conduit-fill.apk
+└── ISSUES.md
 ```
+
+## Download
+
+Built APKs are no longer committed to the repo. The last prebuilt APK is kept at [commit 077a843](https://github.com/epicenterservices13-spec/conduit-fill-apk/raw/077a843c7fbe9d233d8f6adebac4e6f1fb233500/conduit-fill.apk).
 
 ## Build Instructions
 

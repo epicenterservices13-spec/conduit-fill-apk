@@ -7,3 +7,7 @@
 local.properties
 .idea
 .DS_Store
+
+# Build outputs
+*.apk
+*.aab
