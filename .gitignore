@@ -7,3 +7,7 @@
 local.properties
 .idea
 .DS_Store
+/app/build/
+build/
+app/build/
+.gradle/
