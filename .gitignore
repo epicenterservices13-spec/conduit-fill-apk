@@ -7,3 +7,9 @@
 local.properties
 .idea
 .DS_Store
+
+# Gradle build output
+build/
+app/build/
+.gradle/
+test_output.log
