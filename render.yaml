@@ -1,0 +1,9 @@
+services:
+  - type: web
+    name: conduit-fill-calculator
+    env: static
+    buildCommand: cd web-app && npm install && npm run build
+    staticPublishPath: web-app/dist
+    envVars:
+      - key: NODE_ENV
+        value: production
